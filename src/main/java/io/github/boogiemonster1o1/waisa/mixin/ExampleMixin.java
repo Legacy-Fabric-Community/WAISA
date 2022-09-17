@@ -1,4 +1,4 @@
-package net.fabricmc.example.mixin;
+package io.github.boogiemonster1o1.waisa.mixin;
 
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
